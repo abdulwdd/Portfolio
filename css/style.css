@@ -3,13 +3,32 @@
     text-decoration: none;
     text-align: center;
     /* justify-content: space-around; */
+    justify-content: space-around;
+   
+}
+#head1a{
+    color:wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .head2{
     display: flex;
     justify-content: space-between;
     text-decoration: none;
+    text-align: center;
 }
 .head2 a{
     text-decoration: none;
-    color: whitesmoke;
+    color: wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 15px;
+    text-align: center;
+}
+#but1{
+    margin-left: 15px;
+    border-color: wheat;
+    color: wheat;
+    padding: 10px;
+    border-radius: 10px;
+    border-style: outset;
+    background-color: white;
 }
