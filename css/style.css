@@ -1,0 +1,15 @@
+.head{
+    display: flex;
+    text-decoration: none;
+    text-align: center;
+    /* justify-content: space-around; */
+}
+.head2{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+.head2 a{
+    text-decoration: none;
+    color: whitesmoke;
+}
